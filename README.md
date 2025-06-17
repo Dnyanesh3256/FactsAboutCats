@@ -6,9 +6,7 @@ FactAboutCat is a simple, interactive web app that displays a random cat fact ea
 
 ## 🚀 Live Demo
 
-👉 [View on GitHub Pages](https://your-username.github.io/FactAboutCat/)
-
-![FactAboutCat Screenshot](screenshot.png)
+👉 [View on GitHub Pages](https://dnyanesh3256.github.io/FactsAboutCats/)
 
 ---
 
